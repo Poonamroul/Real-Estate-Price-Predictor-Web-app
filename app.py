@@ -19,7 +19,7 @@ custom_css = """
 
 html, body, [class*="css"] {
     font-family: 'Times New Roman', Times, serif !important;
-}
+}p
 
 .stNumberInput input {
     background-color: #fff !important;
